@@ -1,5 +1,5 @@
 
-export const socket = io('https://web-terminal-nu.vercel.app/'); // Ensure the correct backend address is used
+export const socket = io('https://web-terminal-6y4h.onrender.com'); // Ensure the correct backend address is used
 
 // Log connection status
 socket.on('connect', () => {
