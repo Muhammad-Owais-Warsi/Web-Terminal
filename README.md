@@ -9,6 +9,13 @@ Containers are created when you connect and removed when you disconnect.
 
 A lightweight solution for practicing terminal commands in a browser!  
 
+## Demo
+
+
+https://github.com/user-attachments/assets/25be0d4d-60b3-44cb-bb38-8dbaf6bb91c7
+
+
+
 ## Local setup
  - Set up the docker locally.
  - Install the dependencies using `npm` in the backend folder.
