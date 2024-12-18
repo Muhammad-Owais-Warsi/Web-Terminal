@@ -8,3 +8,9 @@ A simple web-based terminal where you can execute shell commands directly in you
 Containers are created when you connect and removed when you disconnect.  
 
 A lightweight solution for practicing terminal commands in a browser!  
+
+## Local setup
+ - Set up the docker locally.
+ - Install the dependencies using `npm` in the backend folder.
+ - Run the server.
+ - Go live on the client.
